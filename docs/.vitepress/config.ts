@@ -7,6 +7,8 @@ export default defineConfig({
   description: WA_DESC,
 
   themeConfig: {
+    logo: '/logo.svg',
+
     nav: [
       { text: '指南', link: '/guide/', activeMatch: '/guide/' },
       { text: '日常', link: '/daily/', activeMatch: '/daily/' },
