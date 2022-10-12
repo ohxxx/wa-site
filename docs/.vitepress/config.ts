@@ -12,6 +12,7 @@ export default defineConfig({
     nav: [
       { text: '指南', link: '/guide/', activeMatch: '/guide/' },
       { text: '日常', link: '/daily/', activeMatch: '/daily/' },
+      { text: 'Play', link: 'https://wa-lang.org/playground/' },
       { text: 'API', link: '/api/', activeMatch: '/api/' },
     ],
 
