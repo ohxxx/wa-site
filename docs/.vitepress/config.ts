@@ -10,8 +10,8 @@ export default defineConfig({
     logo: '/logo.svg',
 
     algolia: {
-      appId: 'OT6KG20P3A',
-      apiKey: '105dea25628c64858e8a159cdad980d8',
+      appId: '70KN18OOKV',
+      apiKey: '8e276c9c1e442e23ad6f922e8ffbb90e',
       indexName: 'dev_wa',
     },
 
