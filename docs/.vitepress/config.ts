@@ -9,6 +9,12 @@ export default defineConfig({
   themeConfig: {
     logo: '/logo.svg',
 
+    algolia: {
+      appId: 'OT6KG20P3A',
+      apiKey: '105dea25628c64858e8a159cdad980d8',
+      indexName: 'dev_wa',
+    },
+
     nav: [
       { text: '指南', link: '/guide/', activeMatch: '/guide/' },
       { text: '日常', link: '/daily/', activeMatch: '/daily/' },
