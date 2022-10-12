@@ -22,7 +22,7 @@ export const TEAM_MEMBERS = [
   {
     avatar: 'https://github.com/benshi001.png',
     name: '史斌',
-    desc: '新时代码农',
+    desc: '',
     links: [
       { icon: 'github', link: 'https://github.com/benshi001' },
     ],
@@ -30,7 +30,7 @@ export const TEAM_MEMBERS = [
   {
     avatar: 'https://www.github.com/oooooomg.png',
     name: '扈梦明',
-    desc: 'Interesting is more meaningful than useful',
+    desc: '有趣比有用更有意义',
     links: [
       { icon: 'github', link: 'https://github.com/oooooomg' },
     ],
