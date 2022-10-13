@@ -28,11 +28,11 @@ export const TEAM_MEMBERS = [
     ],
   },
   {
-    avatar: 'https://www.github.com/oooooomg.png',
+    avatar: 'https://www.github.com/iiiiiixxx.png',
     name: '扈梦明',
-    desc: '有趣比有用更有意义',
+    desc: 'Interesting is more meaningful than useful',
     links: [
-      { icon: 'github', link: 'https://github.com/oooooomg' },
+      { icon: 'github', link: 'https://github.com/iiiiiixxx' },
     ],
   },
   {
